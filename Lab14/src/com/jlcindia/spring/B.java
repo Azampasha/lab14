@@ -1,7 +1,7 @@
 package com.jlcindia.spring;
 
 public class B {
-	
+	//solar
 	private int b;
 	private String str;
 	public B(int b, String str) {
