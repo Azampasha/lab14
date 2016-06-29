@@ -1,7 +1,7 @@
 package com.jlcindia.spring;
 
 public class B {
-	
+//sssss	
 	private int b;
 	private String str;
 	public B(int b, String str) {
